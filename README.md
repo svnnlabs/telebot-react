@@ -8,7 +8,7 @@ Dengan tampilan console yang nggak bikin bosen !
 
 ## ✨ Fitur Utama
 
--   **Auto Reaction** ke setiap channel post
+-   **Auto Reaction**
 -   **Easy Setup Bot**
 -   **Log Channel Post**
 
