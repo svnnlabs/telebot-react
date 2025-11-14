@@ -1,0 +1,19 @@
+{
+  "name": "auto-reaction-bot",
+  "version": "1.0.0",
+  "description": "Simple auto reaction telegram.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "autoreact-bot",
+    "savantlabs"
+  ],
+  "author": "savant",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "telegraf": "^4.16.3"
+  }
+}
