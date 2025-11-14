@@ -12,7 +12,6 @@ const chalk = require("chalk");
 
 //~~~~~~~~ Set Bot & Owner ~~~~~~~~//
 global.tokenBot = '8294176672:AAE0DcbDPnPwVVJLAqKr0B2pWw9vWshVLss'
-global.ownerId = ['8413329757', '1551953577']
 global.requiredChannel = '@svnnlabs'
 
 //~~~~~~~~ Set Random Emoji ~~~~~~~~//
